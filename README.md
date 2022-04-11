@@ -1,1 +1,1 @@
-# Finance-Tracker
+# MERN Full Stack E-commerce Finance-Tracker Project
